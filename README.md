@@ -1,6 +1,6 @@
 # GitHub Packages
 
-**Watch the video [here]()**
+**Watch the video [here](https://youtu.be/wtmLFictGgY)**
 
 ## Prerequisites
 
